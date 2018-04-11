@@ -26,7 +26,7 @@
           </div> <!-- end of left_menu -->
         </div> <!-- end of col1 -->
 
-        <div id="co12">
+        <div id="col2">
           <form name="member_form" method="post" action="login.php">
             <div id="title">
               <img src="../img/title_login.gif">
